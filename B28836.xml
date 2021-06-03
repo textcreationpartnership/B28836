@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A general epistle from the Holy Spirit unto all prophets, ministers, or speakers in the world ... [by] John Reeve and Lodowick Muggleton, the two last spiritual witnesses and alone true prophets of the Holy Spirit by commission from the true God... London, 1653 in the second year of our commission by voice from Heaven.</title>
+            <author>Reeve, John, 1608-1658.</author>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28836</idno><idno type="EEBO-CITATION">17205203</idno>
+  <idno type="VID">206373</idno>
+  <idno type="EEBO-PROQUEST">2248535914</idno>
+  
+            <idno type="STC">Wing R678</idno>
+            <idno type="OCLC">17205203</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28836)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206373)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1621:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A general epistle from the Holy Spirit unto all prophets, ministers, or speakers in the world ... [by] John Reeve and Lodowick Muggleton, the two last spiritual witnesses and alone true prophets of the Holy Spirit by commission from the true God... London, 1653 in the second year of our commission by voice from Heaven.</title>
+                  <author>Reeve, John, 1608-1658.</author>
+                  <author>Muggleton, Lodowick, 1609-1698.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication taken from title.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Astrology --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:206373:1"/>
+            <pb facs="tcp:206373:1"/>
+            <head>A GENERAL EPISTLE, FROM THE HOLY SPIRIT, Unto all Prophets, Ministers, or Speakers in the world: wherefore if any man in the world shall be left to despise this writing, from the greatest to the least, by calling of it Blasphemy, a Divell, Delusion, or a Lie; in so doing, they have committed that unpar<g ref="char:EOLhyphen"/>donable sin against the Holy Spirit that sent us; where<g ref="char:EOLhyphen"/>fore from the presence of the Lord Jesus, Elect men, and Angels, we pronounce them cursed, and damned, soule and body to all eternitie.</head>
+            <head type="sub">
+               <hi>John Reeve,</hi> and <hi>Lodowick Muggleton,</hi> the two last spirituall Witnesses, and alone true Prophets of the Holy Spirit, by Commission from the true God, that ever shall write or speake unto unbelieving Magistrates, Ministers, and Peo<g ref="char:EOLhyphen"/>ple, untill the only Lord of life and glory, the Man Jesus, personally appeareth in the aire, with his mighty Angels, to bear witness to this testimony: even so come Lord Jesus.</head>
+            <opener>
+               <dateline>
+                  <hi>From great Trinity Lane, at a Chandlers Shop, against one Mr.</hi> Millis, <hi>a Brown Baker, neare Bow lane end,</hi> London, <date>1653. <hi>in the second year of our Commission,</hi>
+                  </date>
+                  <hi>by Voice from Heaven.</hi>
+               </dateline>
+            </opener>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>BY vertue of my Commission received by voyce of words from the Holy Spirit of the only wise God, and everlasting Father, the Man Jesus in glory, present I this Epistle as an eternall witness between us. Friend in the account of many you have ap<g ref="char:EOLhyphen"/>peared as a true Minister or Preacher of the everlasting Go<g ref="char:EOLhyphen"/>spel
+<pb n="2" facs="tcp:206373:2"/>or God the Man Jesus, and you have lived in glory for a season, through your Ministry, taken up by your naturall wit from the Letter of the Scripture, which were other mens words, received by voice and inspiration from the Lord, you having no Commission nor revelation from the glorious mouth of the Lord Jesus to Preach unto his Elect; wherefore because my God the Man Jesus sent you not, you Preach unto the People out of the bottomlesse pit of your owne lying immagination, which is the Divell, a God of words onely, without substantiall forme, a bodilesse God, which you call an eternall Spirit, which you imagine was in Heaven when the Lord Jesus was personally on this Earth, unto whom you suppose the Man Jesus prayed unto; but I declare by Revelation from the Holy Spirit, that you are utterly ignorant of that Father that the Lord Jesus cried unto, in the body of his flesh.</p>
+            <p>For it is hid from the wise and prudent men of this world, that the eternall Creator of all spirituall forms, came down from the throne of his glory personally in a spirituall form, or likenesse of a Man, and with his spirituall body or form personally entred into the body or womb of the Virgin Wife <hi>Mary,</hi> and in her womb uncreated himselfe, from his eter<g ref="char:EOLhyphen"/>nall immortall glory, and in the same moment created or conceived himselfe of the seed of the Virgin in pure morta<g ref="char:EOLhyphen"/>lity, and in his appointed time became a childe, a son, yea, a perfect creature: thus the immortall eternall Creator, for a season, became an absolute mortall man (or creature) sin only excepted.</p>
+            <p>Againe, I declare from the Holy Spirit, that in that Hea<g ref="char:EOLhyphen"/>ven and earth above or beyond the Stars, where the persons of the holy Angels are resident, the personal presence of God was wholly absent from them, for that season, the second man, the Lord from Heaven was resident on Earth.</p>
+            <pb n="3" facs="tcp:206373:2"/>
+            <p>Againe, it is hid from your eies, that there is no spirit without a body or forme, hath any living, being, nor never had, neither of God the Creator from eternitie, nor Angels, or man created in time. Againe, it is hid from your eies, that from eternitie the Creator was a spirituall body or per<g ref="char:EOLhyphen"/>son in the forme of a man, having all parts in immortalitie, as man hath in mortalitie, who was created in his spirit within like unto God, and in his forme without, like unto God also; onely his fleshly forme was naturall and earthly, and Gods forme was spirituall and heavenly. Againe, be<g ref="char:EOLhyphen"/>cause you preach without a Commission, you understand not that the eternall spirituall forme both Father and Son was a spirituall God and man, in one person or forme from all eternitie; and so it being impossible to divide them, un<g ref="char:EOLhyphen"/>seperably the immortall God, Father and Son, did as before<g ref="char:EOLhyphen"/>said, lay down their eternall immortall glory in the Virgins womb together, and did transmute their spirituall glory both together into pure mortalitie, of flesh, bloud, and bone, and in that body of flesh they did raise unto themselves new transcendant glory from elect men and Angels, in revealing unto them the wonderfull spirituall mystery of the whole Godhead, cloathing it selfe with flesh, in the person of a man; therefore it is written, <hi>for in him dwelleth all the fulnesse of the Godhead bodily:</hi> Againe, <hi>from his fulnesse wee all receive Grace for Grace.</hi> Againe, <hi>he that hath seene me, hath seene the Fa<g ref="char:EOLhyphen"/>ther, and the Father and I are one.</hi> Againe, <hi>he thought it no rob<g ref="char:EOLhyphen"/>bery to be equall with God.</hi> Againe, <hi>he is called the Creator of the Worlds.</hi> Againe it is written, <hi>hereby perceive we the love of God, because be laid downe his life for us.</hi> Againe, <hi>I am he that liveth and was dead, and behold I am alive for evermore, amen.</hi> And <hi>I have the keyes of Hell and of Death.</hi> Againe, <hi>these things saith the first and the last, which was dead and is alive.</hi> Againe, <hi>to the onely Wise God our Saviour, be Glory and Majesty, Dominion and
+<pb n="4" facs="tcp:206373:3"/>Power, now and ever, Amen.</hi> Thus it is cleare unto all that are instructed by revelation from the Holy Spirit, that there is no Creator, nor God, nor never was, but the man Jesus, that died without the Gate, and rose againe out of death by his owne power, and in that body of flesh and bone hee as<g ref="char:EOLhyphen"/>cended far above all Heavens, Angels, and men: Therefore it is written, <hi>When he ascended on high, he gave Gifts unto men.</hi>
+            </p>
+            <p>Againe, because you have no Commission to preach, you understand not, that before the eternall Creator became a pure mortall Creature, hee glorified the body of his Crea<g ref="char:EOLhyphen"/>ture, the Prophet <hi>Eliah</hi> in that Heaven and Earth without the Globe, and gave him a Commission to represent the glo<g ref="char:EOLhyphen"/>rious person of God the Creator, whilest God the Father went that fore Journey in flesh to redeem his elect ones by faith in his bloud. Thus the Creature by the unsearchable wisdome of the Creator, by Commission from the Creator, for a season was representatively in the very glory of the Creator, and the Lord Jesus the onely Creator was in the lowest abasement of a Creature, to shew forth his infi<g ref="char:EOLhyphen"/>nite Prerogative, Power, Wisdome, and Glory, Love, and Humility unto his Elect, that they only may understand by inspiration from the Holy Spirit, that the immortall Creator became an absolute Creature, as we are, except sin as beforesaid, that we that are his elect Creatures, believing in the body or person of God, the Lord Jesus our Creator, may in the resurrection possesse glorious bodies of the same divine nature of our God and Father, and alone Creator, the man Jesus to all eternitie; so that it is not so strange as true, that it was the Prophet <hi>Eliah</hi> that my God, the man Jesus in mortalitie cried unto in all his extremities, and <hi>Eliah</hi> as a faithfull spirituall Steward, with <hi>Moses</hi> from the throne of glory did minister consolation unto his Lord and Saviour in mortalitie, as an immortall God and Father in glory,
+<pb n="5" facs="tcp:206373:3"/>untill the Creator of all life passed through hell by intolera<g ref="char:EOLhyphen"/>ble sufferings for his Elect, the whole Godhead being dead and buried for a moment, and by his own power in his de<g ref="char:EOLhyphen"/>creed time, in that body of flesh wherein his soule died, in death or out of death hee quickened a new glorious life, wherein naturally as fire, hee ascended personally into that place of glory from whence he came, and now it is he alone sitteth on the right hand in the midst of the throne of the Fa<g ref="char:EOLhyphen"/>thers immortall Majestie, wisdome, power, and glory again; so that the man Jesus being upon the throne, it is hee alone by his holy Spirit reveales unto elect men and Angels in measure that unutterable wonderfull mystery of the eternal Majesty cloathing himselfe with a garment of flesh to all e<g ref="char:EOLhyphen"/>ternitie. Wherefore I declare by revelation from the Holy Spirit, that whoever in his spirit or tongue offers up prayers or praises unto any eternall Spirit, or God, or Father, but unto that man Jesus that was put to death in the flesh, and quickened in the spirit, hee prayes unto his owne lying im<g ref="char:EOLhyphen"/>magination, which is the Divel, instead of the true God the man Jesus.</p>
+            <p>Againe, unto us that are the Lords spiritual Embassadors is the infallible spirit given, whereby wee are inabled to dis<g ref="char:EOLhyphen"/>cerne betweene the Elect and the Reprobate, and to seale them up unto eternall life, and eternal death; and it is really so, as sure as there is a Creator. Againe, the Holy Spirit that sent us enables us to answer all needfull spirituall questions of the deep things of God for the Consolation of the elect, and the condemnation of the Reprobate: but of the contrary, because you have no Commission to Preach, you wanting the infallible spirit, you know not whether any shall be saved or damned, because you have no assurance of your owne salvation, neither do you know when men com<g ref="char:EOLhyphen"/>mit that unpardonable sin against the Holy Spirit; therefore
+<pb n="6" facs="tcp:206373:4"/>all men may repent first or last, and finde mercy for ought you know; but the Lord hath given us to know our owne salvation, and of the salvation of some of his chosen ones, his holy name be eternally praised. Againe, wee know by that infallible spirit of the Lord Jesus within us, when men fall under that unpardonable sin against the Holy Spirit; yea, we know of hundreds that are under that unpardonable sin at this time, who must all perish to eternity. Againe, you understand not that God hath a mouth to speake unto men as a man hath, and that he speakes to all his Commissiona<g ref="char:EOLhyphen"/>ted Prophets and Apostles, as a man speaks unto his friend. Thus the Lord spake unto <hi>Moses</hi> and the holy Prophets in the time of the Law, who were the Holy Spirits first Wit<g ref="char:EOLhyphen"/>nesses unto men, that the man Jesus then to come in flesh was the only God. Againe, the man Jesus spake unto his Apostles mouth to mouth, who were the Holy Spirits second Witnesses unto the man Jesus, then come in the flesh, to be the onely God. Againe, the third and last Witnesses of the Holy Spirit unto the man Jesus to bee the onely God, are those two in the Revelation, spoken of by <hi>John</hi> the beloved Disciple, that were to appeare in this last age, and are up<g ref="char:EOLhyphen"/>on the Stage of this world at this time in this great City of <hi>London,</hi> where the Elect shall see the great wonders of the Lord: but they are hid from reprobate hypocriticall Phari<g ref="char:EOLhyphen"/>saicall unmercifull men and women, that they may despise the Holy Spirit of the Lord Jesus, in us his last Witnesses, that they may fill up the measure of their forefathers sinnes, that despised the Holy Spirit in the Lords two former Wit<g ref="char:EOLhyphen"/>nesses, that in the resurrection at the great day of the Lords Account, they may bee cursed, suffering together in their spirits and bodies through the absence of that Holy Spirit rejected by them, the vengeance of eternall death, that shal burn as a flame of fiery darkenesse to all eternity.</p>
+            <pb n="7" facs="tcp:206373:4"/>
+            <p>Again, I declare from the Holy Spirit of the Lord Jesus, that my God the man Jesus from his Throne of glory, spake to me <hi>John Reeve,</hi> his third and last Witness, 3 mornings together, voice to voice, or mouth to mouth, by the which I know, that God the man Jesus spake unto his two former Witnesses, according to the Scriptures, but you cannot possibly know it, as I doe, but thinke you know it; because my God never spoke unto you as his Messenger or Minister, nor never will: therefore you cannot understand that the eternall God the man Jesus, hath all parts as a man hath, onely all the Mem<g ref="char:EOLhyphen"/>bers of the body of God are glorious, but mans members are in shame, being defiled with a spirit of unclean reason, and wicked immagination: Therefore you cannot possibly preach or declare the true spirituall worship of my God the man Jesus, because you went before you were sent. You know what is written: <hi>Faith comes by hearing, and hearing by the Word of God preached; and how can he preach, except he be sent?</hi>
+            </p>
+            <p>Againe, you being ignorant of the body of God, you can<g ref="char:EOLhyphen"/>not endure the Crosse of Christ, in suffering shame for his Names sake: But we that are his true Messengers, through continuall sufferings for his Names sake, are filled by his blessed Spirit, with full assurance of a Crowne of immortal glory at his appearing, who after hee had suffered all his dayes in mortality, at the appointed time, he entred into his eternall immortall glory; nay, quite contrary to the true Messengers of Christ: Your Ministery rather brings you in silver, and honour from the men of this world, whereby your heart is made fat, and your understanding is darkened through pride from mens good opinions in darknesse like your selfe; and so you run on, offering up a lying sacrifice unto an unknowne God, and that gives great content to a
+<pb n="8" facs="tcp:206373:5"/>proud, covetous, vaine glorious people of your owne spirit, because you know not the Lord Jesus, who requires mercy and not sacrifice, who causeth the sun to shine upon the just, and the unjust.</p>
+            <p>But how can you that are ignorant of my God the man Jesus, and the glory of that life to come, prepared for the mercifull, and are ignorant of that eternall death reserved for all Hypocrites that blinds their eyes with Sacrifice, be<g ref="char:EOLhyphen"/>cause they hate m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y? how can you that seek honour of one another, believe in the man Jesus to be the only God, to yield obedience unto the voice of his Holy spirit of love and mercy unto all men, which is the onely sweet smelling sacrifice required by the Lord Jesus from all his Elect?</p>
+            <p>Againe, how can you distill upon mens spirits the glori<g ref="char:EOLhyphen"/>ous things of eternitie, without the spirit of Prophesie, which is a spirit of revelation, or inspiration given onely to the true Embassadors of the Lord Jesus?</p>
+            <p>Sir, once more to your own perticular person, if after the receipt of this Epistle sent unto you from the Lord of glory, to forewarne you before it was too late; you shall either write, prophesie, preach or teach unto Magistrates or people, publick, or private, then in obedience unto our Commission, because you have disobeyed the message of the Holy Spirit, from the presence of the only wise God the man Jesus, elect men and Angels, wee pronounce you cursed and damned both soule and body unto all eternitie.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206373:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
